@@ -1,0 +1,12 @@
+@import "./../styles/variables";
+
+.welcome{
+  color:$header-font-color;
+  font-size: 3rem;
+  text-align: center;
+  transform: rotate(-5deg);
+
+  .username{
+    font-weight: normal;
+  }
+}
