@@ -7,6 +7,8 @@
 * Webpack 4
 * Babel
 * Hot Module Replacement
+* Sass
+* PostCSS (autoprefixer)
 
 ## Installation
 
@@ -15,3 +17,4 @@
 * npm install
 * npm start
 * open `http://localhost:3000/`
+
