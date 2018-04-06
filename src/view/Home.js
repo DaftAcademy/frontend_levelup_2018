@@ -1,10 +1,15 @@
-import * as React from "react";
+import React from 'react';
+import PropTypes from 'prop-types';
 
 import "./Home.scss";
 
 class Home extends React.Component {
+  static propTypes = {
+    username: PropTypes.string.isRequired,
+  }
+
   state = {
-    welcomeText: "Hello"
+    welcomeText: 'Hello',
   };
 
   render() {
