@@ -14,9 +14,9 @@ https://www.facebook.com/events/1705112642901696
 
 1. Node.js: https://nodejs.org/en/download/
 
-2. Konsola (linux-like) z zainstalowanym git'em
-    **Linux/MaxOS:** https://git-scm.com/downloads
-    **Windows:** polecamy http://cmder.net/  (od razu konsola razem z git'em)
+2. Konsola (linux-like) z zainstalowanym git'em  
+**Linux/MaxOS:** https://git-scm.com/downloads  
+**Windows:** polecamy http://cmder.net/  (od razu konsola razem z git'em)
 
 3. Nowoczesny edytor / IDE. Jeśli nie masz swojego ulubionego to polecamy:
  - https://code.visualstudio.com/
