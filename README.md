@@ -23,7 +23,7 @@ https://www.facebook.com/events/1705112642901696
  - https://atom.io/
  - https://www.sublimetext.com/
 
-Po instalacji sprawdź czy wszystko zostało poprawnie zainstalowane.
+Po instalacji sprawdź, czy wszystko zostało poprawnie zainstalowane.
 W konsoli napisz:
 ```sh
 git --version
@@ -35,11 +35,11 @@ npm --version
 
 W tracie zajęć (w ramach prac domowych) będziecie rozwijać własną aplikcaję, którą umieścicie online przy użyciu [GitHub Pages](https://pages.github.com/).
 
-Prowadzący przygotowali *bolerplate* na którym możecie się wzorować.
+Prowadzący przygotowali *boilerplate*, na którym możecie się wzorować.
 ### https://github.com/mkaczkowski/daftcode-react-starter
 
 
-W głównym repozytorium kursu znajduje się również [przykładowa aplikacja](sample_app), która została stworzona na bazie wsponianego *bilerpate'u* i będzie rozwijana w trakcie kursu przez prowadzących. Działającą wersję aplikacji znajdziecie na *GitHub Pages* tego repozytorium.
+W głównym repozytorium kursu znajduje się również [przykładowa aplikacja](sample_app), która została stworzona na bazie wspomnianego *boilerpate'u* i będzie rozwijana w trakcie kursu przez prowadzących. Działającą wersję aplikacji znajdziecie na *GitHub Pages* tego repozytorium.
 ### https://daftcode.github.io/frontend_levelup_2018/
 
 # Materiały z zajęć
