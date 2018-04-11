@@ -14,8 +14,8 @@ https://www.facebook.com/events/1705112642901696
 
 1. Node.js: https://nodejs.org/en/download/
 
-2. Konsola (linux-like) z zainstalowanym git'em  
-**Linux/MaxOS:** https://git-scm.com/downloads  
+2. Konsola (linux-like) z zainstalowanym git'em
+**Linux/MaxOS:** https://git-scm.com/downloads
 **Windows:** polecamy http://cmder.net/  (od razu konsola razem z git'em)
 
 3. Nowoczesny edytor / IDE. Jeśli nie masz swojego ulubionego to polecamy:
@@ -45,3 +45,5 @@ W głównym repozytorium kursu znajduje się również [przykładowa aplikacja](
 # Materiały z zajęć
 
 *Tutaj dzień po zajęciach znajdziecie prezentacje oraz treść zadań domowych.*
+
+1. [Składowe projektu front-end](./01_skladowe_projektu_frontend.md) ([ZADANIE DOMOWE](./01b_zadanie_domowe.md))
