@@ -8,6 +8,7 @@
   "rules": {
     "no-console": "error", // airbnb is using warn
     "no-return-assign": "off", // airbnb use error, handy for react ref assign.
+    "react/require-default-props": "off",
     "operator-linebreak": ["error", "after"], // aibnb is disabling this rule
     "react/jsx-filename-extension": ["error", {"extensions": [".js"]}], // airbnb is using .jsx
     "react/jsx-max-props-per-line": ["error", {"maximum": 3}], // airbnb is disabling this rule
