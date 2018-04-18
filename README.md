@@ -47,3 +47,4 @@ W głównym repozytorium kursu znajduje się również [przykładowa aplikacja](
 *Tutaj dzień po zajęciach znajdziecie prezentacje oraz treść zadań domowych.*
 
 1. [Składowe projektu front-end](./01_skladowe_projektu_frontend.md) ([ZADANIE DOMOWE](./01b_zadanie_domowe.md))
+2. [Przeglad frameworków; React (pdf)](./02_przeglad_frameworkow_React.pdf) ([ZADANIE DOMOWE](./02b_zadanie_domowe.md))
