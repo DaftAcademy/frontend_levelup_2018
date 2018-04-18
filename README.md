@@ -42,6 +42,10 @@ Prowadzący przygotowali *boilerplate*, na którym możecie się wzorować.
 W głównym repozytorium kursu znajduje się również [przykładowa aplikacja](sample_app), która została stworzona na bazie wspomnianego *boilerpate'u* i będzie rozwijana w trakcie kursu przez prowadzących. Działającą wersję aplikacji znajdziecie na *GitHub Pages* tego repozytorium.
 ### https://daftcode.github.io/frontend_levelup_2018/
 
+# Pomoc przy pracach domowych, pytania dotyczące treści zajęć
+
+Zachęcamy do zadawania pytań przez [Issues](https://github.com/daftcode/frontend_levelup_2018/issues) tego projektu. Przeglądajcie również pytania innych uczestników, może potraficie na nie odpowiedzieć! :D
+
 # Materiały z zajęć
 
 *Tutaj dzień po zajęciach znajdziecie prezentacje oraz treść zadań domowych.*
