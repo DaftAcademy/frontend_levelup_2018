@@ -27,3 +27,7 @@ Dla Asów  programowania:
 Wszystkie prace domowe będą przez nas sprawdzane.
 Na wykonanie tego zadania masz czas do poniedziałku **23 kwietnia do 12:00** (południe).
 Do tego czasu uzupełnij ankietę z odpowiedziami: [https://goo.gl/forms/3w2axY36bpAzDrX43](https://goo.gl/forms/3w2axY36bpAzDrX43)
+
+
+### Pytania?
+Jeśli masz jakieś pytanie, stwórz issue w naszym repo :)  https://github.com/daftcode/frontend_levelup_2018/issues
