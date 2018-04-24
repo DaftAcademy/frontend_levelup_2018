@@ -37,7 +37,11 @@ Jeśli masz jakieś pytanie, stwórz issue w naszym repo :)  https://github.com/
 /**
  * Counter
  * Component used to displaying time in format mm:ss
+ *
+ * sample use:
+ * <Counter from={4} to={1} onSuccess={() => alert("success!")}/>
  * */
+ 
 import * as React from "react"
 import PropTypes from "prop-types"
 import format from "date-fns/format"
