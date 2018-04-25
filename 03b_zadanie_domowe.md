@@ -42,7 +42,7 @@ To Do:
     }
   }
   ```
-* Zaimplementuj komponent `<LaunchDetails />` zgodnie z projektem graficznym https://scene.zeplin.io/project/5ae041721822ab88708c2660/screen/5ae041b1f8cb95265e839555 ,
+* Zaimplementuj komponent `<LaunchDetails />` zgodnie z projektem graficznym https://scene.zeplin.io/project/5ae041721822ab88708c2660/screen/5ae041b1f8cb95265e839555 (**Uwaga!** w projekcie są dwa widoki: listy i szczegółów. W tym zadaniu chodzi wyłącznie o ten drugi),
 * Przy tworzeniu komponentu stwórz tyle mniejszych komponentów składowych ile uznasz za stosowne (umieść je w `src/components`),
 * Do odliczania czasu do startu możesz wykorzystać odpowiednio zmodyfikowany licznik z poprzedniego zadania domowego,
 * To które dokładnie dane wyciągniesz z JSON'ów zależy od Ciebie. Projekt graficzny jest tylko podpowiedzią,
