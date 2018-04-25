@@ -32,7 +32,7 @@ Do tego czasu uzupełnij ankietę z odpowiedziami: [https://goo.gl/forms/3w2axY3
 ### Pytania?
 Jeśli masz jakieś pytanie, stwórz issue w naszym repo :)  https://github.com/daftcode/frontend_levelup_2018/issues
 
-### Przykladowe rozwiazanie
+# Przykladowe rozwiazanie
 ```javascript
 /**
  * Counter
@@ -41,7 +41,7 @@ Jeśli masz jakieś pytanie, stwórz issue w naszym repo :)  https://github.com/
  * sample use:
  * <Counter from={4} to={1} onSuccess={() => alert("success!")}/>
  * */
- 
+
 import * as React from "react"
 import PropTypes from "prop-types"
 import format from "date-fns/format"
@@ -154,3 +154,7 @@ Counter.propTypes = {
 
 export default Counter
 ```
+
+# Wyniki punktacji
+
+Dostępne pod adresem: https://docs.google.com/spreadsheets/d/1rn4jgDTsj8-XmdytCNU_qcPF2uXW4kNgV-HWP9hAgxM
