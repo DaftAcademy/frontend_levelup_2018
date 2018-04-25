@@ -52,4 +52,4 @@ Zachęcamy do zadawania pytań przez [Issues](https://github.com/daftcode/fronte
 
 1. [Składowe projektu front-end](./01_skladowe_projektu_frontend.md) ([ZADANIE DOMOWE](./01b_zadanie_domowe.md))
 2. [Przeglad frameworków; React (pdf)](./02_przeglad_frameworkow_React.pdf) ([ZADANIE DOMOWE](./02b_zadanie_domowe.md)  [Wyniki](https://docs.google.com/spreadsheets/d/1rn4jgDTsj8-XmdytCNU_qcPF2uXW4kNgV-HWP9hAgxM))
-3. **Prezentacja wkrótce** [ZADANIE DOMOWE](./03b_zadanie_domowe.md)
+3. [Sass, BEM, Flex (pdf)](./03_Sass_BEM_Flex.pdf) ([ZADANIE DOMOWE](./03b_zadanie_domowe.md))
