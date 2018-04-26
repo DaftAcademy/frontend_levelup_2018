@@ -1,0 +1,24 @@
+.welcome {
+  color: #0f0f0f;
+  font-size: 3rem;
+  text-align: center;
+  -webkit-transform: rotate(-5deg);
+          transform: rotate(-5deg); }
+  .welcome .username {
+    font-weight: normal; }
+
+html {
+  font-size: 10px; }
+
+body {
+  margin: 0; }
+
+main {
+  width: 80%;
+  margin: 4rem auto 0;
+  padding: 2rem;
+  border-radius: 1rem;
+  background: #d7d7d7; }
+
+
+/*# sourceMappingURL=main.css.map*/
