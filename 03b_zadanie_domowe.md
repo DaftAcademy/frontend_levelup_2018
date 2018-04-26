@@ -5,7 +5,7 @@
 ## Opis projektu
 
 Stworzona przez Was aplikacja będzie prezentować dane dostępne przez darmowe API ze startami rakiet kosmicznych firmy `SpaceX`.
-Api jest w pełni darmowe, dokumentację znajdziecie tutaj: https://github.com/r-spacex/SpaceX-API.
+Dokumentację API znajdziecie tutaj: https://github.com/r-spacex/SpaceX-API.
 
 Aplikacja składać się będzie z widoku listy startów oraz widoku szczegółów pojedynczego startu.
 
