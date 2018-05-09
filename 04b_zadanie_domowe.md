@@ -1,6 +1,6 @@
 # 📖 Zadanie domowe 4
 
-**Uwaga, ta praca jest kontynuacją poprzedniej**. Jeśli jej nie wykonałeś/łaś to nic nie jest stracone. Możesz w ramach tej pracy wykonać zadania z pracy 3. i **otrzymać wtedy maksymalnie połowę punktów** plus normalną ocenę z zakresu pracy 4. Analogicznie, jeśli praca będzie zawierać licznik z zadania 2. również otrzymasz maksymalnie połowę punktów z tamtego zadania.
+**Uwaga, ta praca jest kontynuacją poprzedniej**. Jeśli jej nie wykonałeś/łaś, to nic nie jest stracone. Możesz w ramach tej pracy wykonać zadania z pracy 3. i **otrzymać wtedy maksymalnie połowę punktów** plus normalną ocenę z zakresu pracy 4. Analogicznie, jeśli praca będzie zawierać licznik z zadania 2., to również otrzymasz maksymalnie połowę punktów z tamtego zadania.
 
 Oczywiście możesz zdecydować się na realizację zadań tylko z aktualnej pracy. Zostanie ona normalnie oceniona.
 
@@ -11,13 +11,13 @@ Oczywiście możesz zdecydować się na realizację zadań tylko z aktualnej pra
 Zadaniem na ten tydzień jest zrealizowanie drugiego widoku z projektu graficznego - widoku listy lotów.
 https://scene.zeplin.io/project/5ae041721822ab88708c2660/screen/5ae041b0dc0d2c770b8a4b1f
 
-Plik JSON z listą lotów do wyrenderowania dostępny jest tutaj: [./zadaniea_domowe_assets/sample_json_data/launches.json](./zadaniea_domowe_assets/sample_json_data/launches.json)
+Plik JSON z listą lotów do wyrenderowania dostępny jest tutaj: [./zadania_domowe_assets/sample_json_data/launches.json](./zadania_domowe_assets/sample_json_data/launches.json)
 
-Dodatkowo należy zrobić mechanizm prostego przełączania pomiędzy widokami (propozycja poniżej). Jak na razie celowo nie chcemy korzystać z żadnego routera np. `React Router`.
+Dodatkowo należy zrobić mechanizm prostego przełączania pomiędzy widokami (propozycja poniżej). Jak na razie (celowo) nie chcemy korzystać z żadnego routera np. `React Router`.
 
 Na tym etapie widok szczegółów cały czas będzie pokazywać te same dane, niezależnie od tego na jaki element listy kliknie użytkownik.
 
-Przyciski filtrowania listy powinny zawierać wszystkie nazwy rakiet jakie pojawiają się w `lounchesItem.rocket.rocket_name` i odpowiednio filtrować listę (nie należy się sugerować napisami w projekcie graficznym).
+Przyciski filtrowania listy powinny zawierać wszystkie nazwy rakiet, jakie pojawiają się w `lounchesItem.rocket.rocket_name` i odpowiednio filtrować listę (nie należy się sugerować napisami w projekcie graficznym).
 
 To Do:
 * Przenieś plik `launches.json` do `/src/assets`
@@ -88,7 +88,7 @@ To Do:
   }
   ```
 * Zaimplementuj komponent `<LaunchesList />` zgodnie z [projektem graficznym](https://scene.zeplin.io/project/5ae041721822ab88708c2660/screen/5ae041b0dc0d2c770b8a4b1f)
-* Przy tworzeniu komponentu stwórz tyle mniejszych komponentów składowych ile uznasz za stosowne (umieść je w `src/components`),
+* Przy tworzeniu komponentu stwórz tyle mniejszych komponentów składowych, ile uznasz za stosowne (umieść je w `src/components`),
 * Przy formatowaniu dat pomocna może być bibliioteka https://github.com/date-fns/date-fns
 * Przyciski filtrów powinny być osobnym komponentem użytym w widoku listy. Poniżej pseudokod (nie jest to kompletny - działający kod), który może być podpowiedzią jak sobie z tym zadaniem poradzić.
 
