@@ -1,7 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import Menu from '../components/Menu';
 
 import './Home.sass';
+
+const MENU_ITEMS = [
+  { name: 'Home' },
+  { name: 'Search' },
+  { name: 'Contact' },
+  { name: 'Flight details' },
+];
 
 class Home extends React.Component {
   static propTypes = {
@@ -18,6 +26,7 @@ class Home extends React.Component {
 
     return (
       <div>
+        <Menu items={MENU_ITEMS} />
         <h1 className="welcome">
           {welcomeText}
           <span className="username">{`: ${username}`}</span>

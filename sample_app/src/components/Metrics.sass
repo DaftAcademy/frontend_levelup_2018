@@ -1,0 +1,48 @@
+@import "~styles/variables"
+@import "~styles/utils/typography"
+
+.metrics
+  & + &
+    margin-top: 65px
+
+  &__header
+    @extend %heading-style-3
+    margin: 0
+    padding: 0 0 20px
+    color: $metrics-header-color
+    border-bottom: 2px solid $metrics-header-border-color
+
+  &__body
+    padding: 0 0 20px
+
+  &__table
+    display: flex
+    flex-direction: row
+
+    &-column
+      flex: 1
+      padding-left: 30px
+      border-left: 1px dashed $metrics-column-border-color
+
+      & + &
+        margin-left: 20px
+
+  &__item
+    display: flex
+    flex-direction: row
+
+    & + &
+      margin-top: 10px
+
+    &-label, &-value
+      text-transform: uppercase
+
+    &-label
+      margin-right: 5px
+      color: $metrics-label-color
+
+  &__description
+    margin: 0
+
+  &__table, &__description
+    margin-top: 20px

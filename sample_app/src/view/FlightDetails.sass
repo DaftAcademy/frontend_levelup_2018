@@ -1,0 +1,134 @@
+@import "~styles/variables"
+@import "~styles/utils/page-center"
+@import "~styles/utils/buttons"
+@import "~styles/utils/typography"
+
+.details
+  &__header
+    background-color: $details-header-background
+
+    &-content
+      @extend %page-center
+      display: flex
+      align-items: center
+      justify-content: space-between
+      height: 80px
+      padding: 0 40px
+
+    &-main
+      flex: 2
+      text-align: center
+
+    &-side
+      flex: 1
+
+    &-action
+      @extend %link-style-1
+
+      &-icon
+        margin-right: 20px
+
+      &-text
+        @extend %heading-style-3
+
+  &__brand
+    width: 295px
+    margin-left: 60px // margines nadany aby zrekompensować prawą część loga (daleko wystające ramie X'a)
+
+  &__body
+    background-color: $details-background
+
+    &-content
+      @extend %page-center
+      padding: 85px 40px
+
+  &__controls
+    min-height: 590px
+    display: flex
+    flex-direction: column
+    justify-content: flex-end
+    padding: 85px 0
+    background-color: $details-controls-background
+    background-image: url('~assets/images/rocket.png');
+    background-position: center top
+    background-size: 1440px
+    background-repeat: no-repeat
+
+    &-content
+      @extend %page-center
+      text-align: center
+
+    &-title
+      @extend %heading-style-2
+      color: $details-controls-color
+      margin-bottom: 50px
+
+  &__actions
+    list-style: none
+    margin: 0
+    padding: 0
+
+  &__action
+    display: inline-block
+
+    a
+      @extend %button-style-1
+
+    & + &
+      margin-left: 20px
+
+.flight
+  display: flex
+  flex-direction: row
+
+  &__summary
+    &-date
+      @extend %heading-style-3
+      color: $details-summary-date-color
+
+    &-name
+      @extend %heading-style-1
+      margin-top: 20px
+
+    &-countdown
+      margin: 0
+      text-transform: uppercase
+
+    &-patch
+      margin-top: 40px
+
+  &__description
+    margin-left: 20px
+
+  &__summary, &__description
+    flex: 1
+
+$arrow-icon-length: 30px
+$arrow-icon-thickness: 2px
+$arrow-icon-height: 10px
+$arrow-icon-width: 8px
+
+.icon-arrow-back
+  display: inline-block
+  position: relative
+  height: $arrow-icon-height
+  width: $arrow-icon-width + $arrow-icon-length
+  padding-right: $arrow-icon-length
+
+  &:after
+    display: inline-block
+    content: ''
+    position: absolute
+    top: 50%
+    right: 1px
+    height: $arrow-icon-thickness
+    width: $arrow-icon-length
+    background: $brand-color-3
+    transform: translateY(-$arrow-icon-thickness / 2)
+
+  img
+    position: absolute
+    top: 0
+    left: 0
+    height: $arrow-icon-height
+    width: $arrow-icon-width
