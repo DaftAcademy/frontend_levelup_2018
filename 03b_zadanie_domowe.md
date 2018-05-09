@@ -11,11 +11,11 @@ Aplikacja składać się będzie z widoku listy startów oraz widoku szczegół�
 
 Projekt graficzny interface'u znajedziecie tutaj: https://scene.zeplin.io/project/5ae041721822ab88708c2660
 
-Grafiki dostępne są tutaj: [./03_zadanie_domowe_assets/img](./03_zadanie_domowe_assets/img)
+Grafiki dostępne są tutaj: [./zadaniea_domowe_assets/img](./zadaniea_domowe_assets/img)
 
 ## Zadania do wykonania w ramach bieżącej pracy domowej
 
-Na początek zrealizujecie **tylko część projektu** - komponent widoku szczegółów startu `<LaunchDetails />`. Nie będziecie jeszcze korzystać z API. Użyjecie przykładowych JSON'ów z danymi (dostępne tutaj: [./03_zadanie_domowe_assets/sample_json_data](./03_zadanie_domowe_assets/sample_json_data)).
+Na początek zrealizujecie **tylko część projektu** - komponent widoku szczegółów startu `<LaunchDetails />`. Nie będziecie jeszcze korzystać z API. Użyjecie przykładowych JSON'ów z danymi (dostępne tutaj: [./zadaniea_domowe_assets/sample_json_data](./zadaniea_domowe_assets/sample_json_data)).
 
 To Do:
 * Zrób porządek w repozytorium i nazwij je adekwatnie do projektu (wszystkie kolejne zadania będziesz realizować w tym samym repozytorium)
