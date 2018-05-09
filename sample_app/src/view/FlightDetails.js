@@ -91,7 +91,7 @@ class FlightDetails extends React.Component {
             <div className="flight">
               <section className="flight__summary">
                 <span className="flight__summary-date">{ formatDate(new Date(launchData.launch_date_utc)) }</span>
-                <h1 className="flight__summary-name">{ `${launchData.launch_site.site_name} launch` }</h1>
+                <h1 className="flight__summary-name">{ `${rocketData.name} launch` }</h1>
                 <p className="flight__summary-countdown">{this.getCountdownString()} to start</p>
                 <img
                   src={launchData.links.mission_patch_small}
