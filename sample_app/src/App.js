@@ -3,6 +3,9 @@ import * as React from 'react';
 // import Home from './view/Home';
 import PageFooter from './components/PageFooter';
 import FlightDetails from './view/FlightDetails';
+import launch from './assets/sample_json/launch.json';
+import rocket from './assets/sample_json/rocket.json';
+import launchSite from './assets/sample_json/launch_site.json';
 
 import './styles/theme.sass';
 
@@ -11,7 +14,11 @@ class App extends React.Component { // eslint-disable-line react/prefer-stateles
     return (
       <main className="page-container">
         <div className="page-content">
-          <FlightDetails />
+          <FlightDetails
+            launch={launch}
+            rocket={rocket}
+            launchSite={launchSite}
+          />
         </div>
         <PageFooter />
       </main>
