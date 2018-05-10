@@ -143,8 +143,7 @@ To Do:
 ## ⚠️ UWAGA!
 - Pamiętaj o zbudowaniu projektu i deploy'u na GitHub Pages.
 - Na wykonanie tego zadania masz czas do:
-  - poniedziałku **14 maja do 12:00** (południe) - 100% punktów.
-  - 15 maja do 12:00 - (-1) punkt za nieoddanie w terminie - po tym terminie ankieta jest zamykana.
+  - wtorku **15 maja do 12:00** (południe) - 100% punktów.
   - przy okazji kolejnej pracy domowej - 50% punktów
 - **Do tego czasu uzupełnij ankietę z odpowiedziami**: [https://goo.gl/forms/TQvRoBo008QTvW8r1](https://goo.gl/forms/TQvRoBo008QTvW8r1)
 
