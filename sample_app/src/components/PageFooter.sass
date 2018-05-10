@@ -1,0 +1,40 @@
+@import "~styles/variables"
+@import "~styles/utils/page-center"
+@import "~styles/utils/typography"
+
+.page-footer
+  background-color: $footer-background
+  color: $footer-text-color
+  text-transform: uppercase
+
+  &__content
+    @extend %page-center
+    display: flex
+    flex-direction: row
+    align-items: center
+    justify-content: space-between
+    height: 100px
+    padding: 0 75px
+
+  &__social
+    &-lead
+      &:after
+        content: '|'
+        display: inline-block
+        padding: 0 10px
+
+    &-links
+      display: inline-block
+      margin: 0
+      padding: 0
+      list-style: none
+
+    &-link
+      display: inline-block
+
+      & + &
+        margin-left: 20px
+
+      a
+        @extend %link-style-2
+

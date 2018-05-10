@@ -1,14 +1,30 @@
 @import "variables"
+@import "typography"
 
 html
-  font-size: 10px
+  font-family: 'Open Sans', Arial, sans-serif
+  font-size: 14px
+  font-weight: 400
+  letter-spacing: 1px
+  box-sizing: border-box
+
+*
+  &, &:before, &:after
+    box-sizing: inherit
 
 body
   margin: 0
+  padding: 0
 
-main
-  width: 80%
-  margin: 4rem auto 0
-  padding: 2rem
-  border-radius: 1rem
-  background: $background-color
+.page
+  &-container
+    display: flex
+    flex-direction: column
+    min-height: 100vh
+    min-width: $page-min-width
+
+  &-content
+    flex: 1
+
+  &-footer
+    flex: 0 0
