@@ -46,7 +46,7 @@ Wybór pomiedzy Promise a async/await pozostawiamy Tobie.
 - Na wykonanie tego zadania masz czas do:
   - wtorku **22 maja do 12:00** (południe) - 100% punktów.
   - przy okazji kolejnej pracy domowej - 50% punktów
-- **Do tego czasu uzupełnij ankietę z odpowiedziami**: [comming soon]
+- **Do tego czasu uzupełnij ankietę z odpowiedziami**: [tutaj link](https://docs.google.com/forms/d/1dAJg2GgdYYfrQh2kv_R_UuNTQywbMfEy7WihRNzuqL8/edit?ts=5afd5ae0)
 
 ## ❓ Pytania
 
