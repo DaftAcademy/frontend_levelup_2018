@@ -60,3 +60,5 @@ Zachęcamy do zadawania pytań przez [Issues](https://github.com/daftcode/fronte
    - [Przykładowe rozwiązanie](https://daftcode.github.io/frontend_levelup_2018/)
 4. [ECMAScript - historia, Chrome DevTools, Ciakawe / istotne elementy JS](./04_esnext_devtools.md)
    - [ZADANIE DOMOWE](./04b_zadanie_domowe.md)
+5. [Async JS; Fetch API (pdf)](./05_async_and_fetch.pdf)
+   - [ZADANIE DOMOWE](./05b_zadanie_domowe.md)
