@@ -55,7 +55,7 @@ Tutaj znajdziecie przykład, który powstał podczas zajęć:
 ## ⚠️ UWAGA!
 - Pamiętaj o zbudowaniu projektu i deploy'u na GitHub Pages.
 - Na wykonanie tego zadania masz czas do:
-  - wtorku **29 maja do 12:00** (południe)
+  - poniedziałku **28 maja do 12:00** (południe)
 
 - **Do tego czasu uzupełnij ankietę z odpowiedziami**: https://goo.gl/forms/9t7iB7xi3RVdU3MZ2
 - **Pamiętaj o ankiecie dotyczącej tematu ostanich zajęć** (Na Wasze odpowiedzi czekamy do piątku 25 maja, do godziny 12:00): https://goo.gl/forms/sCCtZSFeApc5JSco1
